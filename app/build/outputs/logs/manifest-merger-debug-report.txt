@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1d4f835b98514c648601606f3a760661/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1884c790cbea1678308d226836aaf105/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fatih/.gradle/caches/transforms-2/files-2.1/dae3c074ba40bbb36f82a3064d0fbdb8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8f40c268ccb784449bab91b2395acc4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/deea7dcfa3126b83e13e0acfc411b6c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f65c61c18b7cc74b42f3ed9e1446ff5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/b5ae1995e16cc7e149643367122e9143/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/1b62b09800d6de12a1625e658fb0daa1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/fatih/.gradle/caches/transforms-2/files-2.1/26417699e89faf9b431b81d2cda7b347/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/74b4c9b2b72d98c7393a03935a11e8b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/cf884c0d4d2969fdde86f66a38f06ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a58bcedc36c5cf96c914f500d2c369fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/970a502d72d174d1bb79032a4a7bdf59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f303abeb8f6d17916fd6073a8f189221/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/9cf101de8622c924eb208cfa36a0feba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/06b8a22ac4a9699cd915a4a2c78b99a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/5e33b5f66c202f108d43d37e1cd385d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/55ab6b9f29d6fad5beadb57fa88bed74/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/531a6e37c346a8d35a6c2f3b38eee1f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/83008ef570f18eacb3f28b0414d74eea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a501f50303900e2510fbf7201c7b459f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/3df2fc74a6b97bd01b67b7bf8de931e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/2fd9d73d7cae1a65fb560487d6a570d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/6329f810e202dd52d2c83c04a93b099a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/76df7ebfb40d04802153e1d74eb3e923/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/67fc5b7a744c2d8ac7debd96ee47e803/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8d34ddf24fbca493b1526a83ce3039e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/71bc46ffc4a79279dae4ed778ff3e96c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:12:5-43:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fatih/.gradle/caches/transforms-2/files-2.1/dae3c074ba40bbb36f82a3064d0fbdb8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fatih/.gradle/caches/transforms-2/files-2.1/dae3c074ba40bbb36f82a3064d0fbdb8/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8f40c268ccb784449bab91b2395acc4a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8f40c268ccb784449bab91b2395acc4a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/55ab6b9f29d6fad5beadb57fa88bed74/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/55ab6b9f29d6fad5beadb57fa88bed74/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:17:13-39
+	android:label
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:15:13-45
+	android:roundIcon
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:16:13-58
+	android:icon
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:14:13-47
+	android:allowBackup
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:13:13-39
+	android:theme
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:18:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:28:9-30:58
+	android:value
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:30:17-56
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:29:17-62
+activity#com.example.kotlinmapbook.MapsActivity
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:33:17-45
+activity#com.example.kotlinmapbook.MainActivity
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1d4f835b98514c648601606f3a760661/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1d4f835b98514c648601606f3a760661/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1884c790cbea1678308d226836aaf105/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/1884c790cbea1678308d226836aaf105/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fatih/.gradle/caches/transforms-2/files-2.1/dae3c074ba40bbb36f82a3064d0fbdb8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/fatih/.gradle/caches/transforms-2/files-2.1/dae3c074ba40bbb36f82a3064d0fbdb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8f40c268ccb784449bab91b2395acc4a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8f40c268ccb784449bab91b2395acc4a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/deea7dcfa3126b83e13e0acfc411b6c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/deea7dcfa3126b83e13e0acfc411b6c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f65c61c18b7cc74b42f3ed9e1446ff5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f65c61c18b7cc74b42f3ed9e1446ff5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/b5ae1995e16cc7e149643367122e9143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/b5ae1995e16cc7e149643367122e9143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/1b62b09800d6de12a1625e658fb0daa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/1b62b09800d6de12a1625e658fb0daa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/fatih/.gradle/caches/transforms-2/files-2.1/26417699e89faf9b431b81d2cda7b347/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/fatih/.gradle/caches/transforms-2/files-2.1/26417699e89faf9b431b81d2cda7b347/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/74b4c9b2b72d98c7393a03935a11e8b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/74b4c9b2b72d98c7393a03935a11e8b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/cf884c0d4d2969fdde86f66a38f06ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/cf884c0d4d2969fdde86f66a38f06ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a58bcedc36c5cf96c914f500d2c369fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a58bcedc36c5cf96c914f500d2c369fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/970a502d72d174d1bb79032a4a7bdf59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/970a502d72d174d1bb79032a4a7bdf59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f303abeb8f6d17916fd6073a8f189221/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/f303abeb8f6d17916fd6073a8f189221/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/9cf101de8622c924eb208cfa36a0feba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/9cf101de8622c924eb208cfa36a0feba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/06b8a22ac4a9699cd915a4a2c78b99a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/06b8a22ac4a9699cd915a4a2c78b99a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/5e33b5f66c202f108d43d37e1cd385d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/5e33b5f66c202f108d43d37e1cd385d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/fatih/.gradle/caches/transforms-2/files-2.1/43085a5ca838bd26aa852ef2cdf2ceb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/55ab6b9f29d6fad5beadb57fa88bed74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/55ab6b9f29d6fad5beadb57fa88bed74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/531a6e37c346a8d35a6c2f3b38eee1f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/531a6e37c346a8d35a6c2f3b38eee1f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/83008ef570f18eacb3f28b0414d74eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/83008ef570f18eacb3f28b0414d74eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a501f50303900e2510fbf7201c7b459f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/a501f50303900e2510fbf7201c7b459f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/3df2fc74a6b97bd01b67b7bf8de931e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/3df2fc74a6b97bd01b67b7bf8de931e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/2fd9d73d7cae1a65fb560487d6a570d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/2fd9d73d7cae1a65fb560487d6a570d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/6329f810e202dd52d2c83c04a93b099a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/6329f810e202dd52d2c83c04a93b099a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/76df7ebfb40d04802153e1d74eb3e923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/76df7ebfb40d04802153e1d74eb3e923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/67fc5b7a744c2d8ac7debd96ee47e803/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/67fc5b7a744c2d8ac7debd96ee47e803/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8d34ddf24fbca493b1526a83ce3039e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/8d34ddf24fbca493b1526a83ce3039e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/71bc46ffc4a79279dae4ed778ff3e96c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/71bc46ffc4a79279dae4ed778ff3e96c/AndroidManifest.xml:20:5-44
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fatih/AndroidStudioProjects/KotlinMapBook/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/146c5ebb2554ef8e07ba7ef83288c38f/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/d4a3a463a8b65a1120c59f66ddfe109b/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/fatih/.gradle/caches/transforms-2/files-2.1/43d1671bdb27c2deb253a12d4e043fb6/AndroidManifest.xml:24:13-58

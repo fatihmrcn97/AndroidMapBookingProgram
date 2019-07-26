@@ -1,0 +1,4 @@
+#Fri Jul 26 17:59:57 EET 2019
+base.0=/home/fatih/AndroidStudioProjects/KotlinMapBook/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
